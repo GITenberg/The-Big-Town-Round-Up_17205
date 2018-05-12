@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/713
     wikipedia: http://en.wikipedia.org/wiki/William_MacLeod_Raine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17205#The-Big-Town-Round-Up
 gutenberg_issued: '2005-12-03'
 gutenberg_type: Text
 identifiers:
